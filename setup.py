@@ -18,7 +18,7 @@ extras = {
 
 setup(
     name='marabunta',
-    use_scm_version=True,
+    version='0.10.6',
     description='Migration tool for Odoo',
     long_description=readme + '\n\n' + history,
     author='Camptocamp (Guewen Baconnier)',
